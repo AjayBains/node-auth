@@ -1,0 +1,11 @@
+HTTPOnly cookies
+
+Local storage and normal cookies are both 
+*stored in the browser
+* Accessible by the client
+* Able to read/write by browser
+* ABle to be accesse dby any browser extension on your browser
+
+HttpOnly cookies
+* Only accessible to the server
+* Only writeable via server
